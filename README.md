@@ -1,2 +1,3 @@
 # Calculator
-Its a calculator using c++
+
+Here a create a simple two digit number Calculator
